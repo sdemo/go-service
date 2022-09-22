@@ -1,3 +1,3 @@
 # swampup-go-service
 
-testing webhooks
+This is a service written in Go.
